@@ -6,7 +6,6 @@ import { useHistory } from "react-router-dom";
 
 const HeroSection = () => {
   const history = useHistory();
-
   return (
     <HeroContainer>
       <HeroContent>
