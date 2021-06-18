@@ -1,13 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Frameworks and APIS used for the Project:
-[React](https://reactjs.org/)
-[Redux Toolkit](https://redux-toolkit.js.org/)
-[Styled Components](https://styled-components.com/)
-[Spoonacluar API](https://spoonacular.com/food-api) 
-[Paypal API](https://developer.paypal.com/docs/api/overview/)
-[EmailJs](https://www.emailjs.com/)
-[Firebase](https://firebase.google.com/)
+[React](https://reactjs.org/)<br />
+[Redux Toolkit](https://redux-toolkit.js.org/)<br />
+[Styled Components](https://styled-components.com/)<br />
+[Spoonacluar API](https://spoonacular.com/food-api)<br /> 
+[Paypal API](https://developer.paypal.com/docs/api/overview/)<br />
+[EmailJs](https://www.emailjs.com/)<br />
+[Firebase](https://firebase.google.com/)<br />
 
 
 
