@@ -9,6 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [EmailJs](https://www.emailjs.com/)<br />
 [Firebase](https://firebase.google.com/)<br />
 
+To test the website yourself 
+Email Id:- sal@test.com
+Password:- salman
+
 
 
 ## Available Scripts
